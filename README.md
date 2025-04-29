@@ -46,7 +46,7 @@ This project involves analyzing the Consumer Price Indices (CPI) data for Rural 
 
 
 ## Usage Instructions ##
-**Download:**  [Download the data set from https://github.com/Anush821/Excel_CPI_Inflation/blob/main/CPI_ANALYSIS.csv]
+**Download:**  https://github.com/ChetanKumar-45/CPI_Inflation_Excel/blob/main/CPI_ANALYSIS.csv
 
 **Open:** Open the Excel file in Microsoft Excel 
 
